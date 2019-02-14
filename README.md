@@ -1,8 +1,8 @@
 # Published-Work
 ## This repository contains a list of all my published work
-### Wuraola, Adedamola, and Nitish Patel. "SQNL: A New Computationally Efficient Activation Function." 2018 International Joint Conference on Neural Networks (IJCNN). IEEE, 2018. Link
-### Wuraola, Adedamola, and Nitish Patel. "Stochasticity-Assisted Training in Artificial Neural Network." International Conference on Neural Information Processing. Springer, Cham, 2018. Link
-### 	Wuraola, Adedamola, and Nitish Patel. "Computationally Efficient Radial Basis Function." International Conference on Neural Information Processing. Springer, Cham, 2018. Link
+### Wuraola, Adedamola, and Nitish Patel. "SQNL: A New Computationally Efficient Activation Function." 2018 International Joint Conference on Neural Networks (IJCNN). IEEE, 2018. Link: https://bit.ly/2SMT7Wp
+### Wuraola, Adedamola, and Nitish Patel. "Stochasticity-Assisted Training in Artificial Neural Network." International Conference on Neural Information Processing. Springer, Cham, 2018. Link: https://bit.ly/2TLksW0
+### 	Wuraola, Adedamola, and Nitish Patel. "Computationally Efficient Radial Basis Function." International Conference on Neural Information Processing. Springer, Cham, 2018. Link: https://bit.ly/2SMXikW
 ### Wuraola, Adedamola, and Nitish Patel. "SQNL: A Universal Activation Function For Machine Learning." International Conference on Machine Learning”, 2019. Under Review
 
 # LSTM
