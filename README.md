@@ -10,5 +10,7 @@
 #### 1. Sentiment Analysis using the imdb dataset containining 60,000 reviews
 #### 2. Sequence to Sequence Translation using the English to French dataset saved under the filename fra.txt
 #### 3. Text Generation using the nietzsche text, found in 'https://s3.amazonaws.com/text-datasets/nietzsche.txt'
+
+
 # Autoencoders
 #### Mnist Dataset using ELU vs SQLU
